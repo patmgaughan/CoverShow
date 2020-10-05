@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="CoverShow.css"?>
+
+<covershow>
+
+	<coverband>
+		<band>Salt &amp; Pepper</band>
+		<theme>Space</theme>
+		<members>
+			<member>Shruti Sagar</member>
+			<member>Patrick Gaughan</member>
+		</members>
+	</coverband>
+
+	<setlist>
+
+		<song title="NASA">
+			<title>NASA</title>
+			<artist>Ariana Grande</artist>
+			<genre>Pop</genre>
+			<year>2019</year>
+		</song>
+
+		<song title="Alien Boy">
+			<title>Alien Boy</title>
+			<artist>Oliver Tree</artist>
+			<genre>Alternative</genre>
+			<genre>Indie</genre>
+			<year>2020</year>
+		</song>
+
+		<song title="Drops of Jupiter">
+			<title>Drops of Jupiter</title>
+			<artist>Train</artist>
+			<genre>Pop Rock</genre>
+			<year>2009</year>
+		</song>
+
+		<song title="Space Cowboy">
+			<title>Space Cowboy</title>
+			<artist>Kacey Musgraves</artist>
+			<genre>Country</genre>
+			<year>2018</year>
+		</song>
+
+		<song title="Moon River">
+			<title>Moon River</title>
+			<artist>Frank Ocean</artist>
+			<genre>Pop</genre>
+			<year>2018</year>
+		</song>
+
+		<song title="Blank Space">
+			<title>Blank Space</title>
+			<artist>Taylor Swift</artist>
+			<genre>Pop</genre>
+			<year>2014</year>
+		</song>
+
+		<song title="E.T.">
+			<title>E.T.</title>
+			<artist>Katy Perry</artist>
+			<genre>Pop Rock</genre>
+			<year>2010</year>
+		</song>
+
+		<song title="Fly Me To The Moon">
+			<title>Fly Me To The Moon</title>
+			<artist>Frank Sinatra</artist>
+			<artist>Count Basie</artist>
+			<genre>Jazz</genre>
+			<year>1964</year>
+		</song>
+
+		<song title="Dancing in the Moonlight">
+			<title>Dancing in the Moonlight</title>
+			<artist>King Harvest</artist>
+			<genre>Rock</genre>
+			<year>1973</year>
+		</song>
+
+		<song title="All The Stars">
+			<title>All The Stars</title>
+			<artist>Kendrick Lamar</artist>
+			<artist>SZA</artist>
+			<genre>Contemporary RnB</genre>
+			<genre>Hip-Hip/Rap</genre>
+			<year>2018</year>
+		</song>
+
+	</setlist>
+
+</covershow>

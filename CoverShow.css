@@ -1,0 +1,82 @@
+covershow {
+	font-family: "Cooper Black", Courier, monospace;
+	background-color: #bff8b9;
+}
+
+coverband {
+	display: block;
+	background-color: #a79cf9;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+band, members {
+	text-align: center;
+	display: block;
+}
+
+members {
+	color: #bff8b9;
+}
+
+setlist {
+	font-family: "Cooper Black", Courier, monospace;
+	margin-left: 10%;
+	margin-right: 10%;
+	display: grid;
+    justify-content: center;
+    grid-gap: 50px;  
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-template-rows: repeat(2, 300px);
+}
+
+song {
+	width: 300px;
+	height: 300px;
+	size: fixed;
+	margin: 100px auto;
+	display: block;
+	/*position: relative;*/
+	/*background-size: contain;*/
+	color: #eee;
+	background: #a79cf9;
+	box-shadow: -10px 10px #fff296;
+}
+
+title, artist, genre, year, theme { 
+     margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #fff296;
+	position: relative;
+	top: 40%;
+	transform: translateY(-60%);
+	display: block;
+}
+
+genre {
+	color: #bff8b9;
+}
+
+band {
+	color: #fff;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+
+theme {
+	font-size: 30px;
+}
+
+title{
+	color: #eee;
+	font-size: 30px;
+}
+
+/*green #bff8b9
+
+purple #a79cf9
+
+yellow #fff296*/
