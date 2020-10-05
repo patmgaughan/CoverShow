@@ -14,14 +14,14 @@
 
 	<setlist>
 
-		<song title="NASA">
+		<song>
 			<title>NASA</title>
 			<artist>Ariana Grande</artist>
 			<genre>Pop</genre>
 			<year>2019</year>
 		</song>
 
-		<song title="Alien Boy">
+		<song>
 			<title>Alien Boy</title>
 			<artist>Oliver Tree</artist>
 			<genre>Alternative</genre>
@@ -29,42 +29,42 @@
 			<year>2020</year>
 		</song>
 
-		<song title="Drops of Jupiter">
+		<song>
 			<title>Drops of Jupiter</title>
 			<artist>Train</artist>
 			<genre>Pop Rock</genre>
 			<year>2009</year>
 		</song>
 
-		<song title="Space Cowboy">
+		<song>
 			<title>Space Cowboy</title>
 			<artist>Kacey Musgraves</artist>
 			<genre>Country</genre>
 			<year>2018</year>
 		</song>
 
-		<song title="Moon River">
+		<song>
 			<title>Moon River</title>
 			<artist>Frank Ocean</artist>
 			<genre>Pop</genre>
 			<year>2018</year>
 		</song>
 
-		<song title="Blank Space">
+		<song>
 			<title>Blank Space</title>
 			<artist>Taylor Swift</artist>
 			<genre>Pop</genre>
 			<year>2014</year>
 		</song>
 
-		<song title="E.T.">
+		<song>
 			<title>E.T.</title>
 			<artist>Katy Perry</artist>
 			<genre>Pop Rock</genre>
 			<year>2010</year>
 		</song>
 
-		<song title="Fly Me To The Moon">
+		<song>
 			<title>Fly Me To The Moon</title>
 			<artist>Frank Sinatra</artist>
 			<artist>Count Basie</artist>
@@ -72,14 +72,14 @@
 			<year>1964</year>
 		</song>
 
-		<song title="Dancing in the Moonlight">
+		<song>
 			<title>Dancing in the Moonlight</title>
 			<artist>King Harvest</artist>
 			<genre>Rock</genre>
 			<year>1973</year>
 		</song>
 
-		<song title="All The Stars">
+		<song>
 			<title>All The Stars</title>
 			<artist>Kendrick Lamar</artist>
 			<artist>SZA</artist>
